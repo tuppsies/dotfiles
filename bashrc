@@ -119,4 +119,5 @@ fi
 
 export LS_COLORS="$LS_COLORS:ow=1;34:tw=1;34:"
 export PS1="\d:\[$(tput sgr0)\]\[\033[38;5;214m\]\W\[$(tput sgr0)\] \[$(tput sgr0)\]"
+alias ls='ls -l'
 
