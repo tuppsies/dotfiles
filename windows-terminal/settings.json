@@ -41,7 +41,7 @@
                 "useAcrylic" : true,
                 "acrylicOpacity" : 1,
                 "source": "Windows.Terminal.Wsl",
-                "icon" : "C:\\Users\\Tuppe\\Documents\\repos\\dotfiles\\microsoft-terminal\\ubuntu.png"
+                "icon" : "C:\\Users\\Tuppe\\Documents\\repos\\dotfiles\\windows-terminal\\ubuntu.png"
             },
             {
                 "guid": "{490ca8bd-dc6a-409b-bc06-c8e5de1ce908}",
@@ -50,7 +50,7 @@
                 "colorScheme": "ayu_light",
                 "cursorColor" : "#000000",
                 "commandline": "bash",
-                "icon" : "C:\\Users\\Tuppe\\Documents\\repos\\dotfiles\\microsoft-terminal\\ubuntu.png"
+                "icon" : "C:\\Users\\Tuppe\\Documents\\repos\\dotfiles\\windows-terminal\\ubuntu.png"
             },
             {
                 // Make changes here to the powershell.exe profile.
